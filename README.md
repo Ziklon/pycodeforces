@@ -13,6 +13,8 @@ Guardar codeforces.py y template.cpp en una carpeta, dentro de ella crear una ca
 - Editar en codeforces.py la variable url , con la url que desea parsear
 
 
+Duda, mejoras, problemas no duden en reportarlo  a winftc@gmail.com
+
 Saludos!
 
 

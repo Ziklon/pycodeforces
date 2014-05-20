@@ -155,7 +155,7 @@ def compile(source):
                 outputCode=outputCode.strip()          
                 if outputCode != textOutput:
                     all_test_passed=False
-                    print '%s\nExpected\n%s\nReceived%s\n'%(textInput,textOutput, outputCode)
+                    print '%s\nExpected\n%s\nReceived\n%s\n'%(textInput,textOutput, outputCode)
                 else:
                     print 'Test Passed\n'
             else:

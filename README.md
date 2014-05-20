@@ -1,7 +1,15 @@
 pycodeforces
 ============
 
-pycodeforces
+pycodeforces es un plugin que parsea los inputs de los problemas de codeforces y a la vez ira compilando y probando los casos de prueba al momento de guardar el fichero (A.cpp por ejemplo)
+
+
+Algunos Ejemplos
+
+![alt tag](https://github.com/Ziklon/pycodeforces/blob/master/images/py001.png)
+
+
+
 
 
 Instalación

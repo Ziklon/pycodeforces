@@ -6,7 +6,7 @@ pycodeforces es un plugin que parsea los inputs de los problemas de codeforces y
 
 Algunos Ejemplos
 
-![alt tag](https://github.com/Ziklon/pycodeforces/blob/master/images/py001.png)
+![alt tag](https://raw.githubusercontent.com/Ziklon/pycodeforces/master/images/py001.png)
 
 
 

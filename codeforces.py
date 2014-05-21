@@ -110,8 +110,7 @@ else:
 
 def compile(source):
 
-    os.remove('a.exe')
-
+    
     res=os.system("g++ "+source)
 
     print '\n******************* Compiling %s ********************\n'%(source)
